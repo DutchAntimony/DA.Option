@@ -1,4 +1,4 @@
-﻿namespace DA.Option.Collections;
+﻿namespace DA.Options.Collections;
 
 public static class CollectionExtensions
 {

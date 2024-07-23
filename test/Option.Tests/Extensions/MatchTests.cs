@@ -1,6 +1,6 @@
-﻿using DA.Option.Extensions;
+﻿using DA.Options.Extensions;
 
-namespace DA.Option.Tests.Extensions;
+namespace DA.Options.Tests.Extensions;
 
 public class MatchTests : TestBase
 {

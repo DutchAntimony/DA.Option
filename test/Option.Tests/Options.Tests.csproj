@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Option\Option.csproj" />
+    <ProjectReference Include="..\..\src\Option\Options.csproj" />
   </ItemGroup>
 
   <ItemGroup>

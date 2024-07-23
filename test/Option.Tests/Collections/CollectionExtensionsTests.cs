@@ -1,6 +1,6 @@
-﻿using DA.Option.Collections;
+﻿using DA.Options.Collections;
 
-namespace DA.Option.Tests.Collections;
+namespace DA.Options.Tests.Collections;
 
 public class OptionExtensions_Collection_Tests
 {

@@ -1,6 +1,6 @@
-﻿using DA.Option.Extensions;
+﻿using DA.Options.Extensions;
 
-namespace DA.Option.Linq;
+namespace DA.Options.Linq;
 
 public static class LinqExtensions
 {

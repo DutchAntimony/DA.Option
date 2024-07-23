@@ -1,4 +1,4 @@
-﻿namespace DA.Option.Tests.Extensions;
+﻿namespace DA.Options.Tests.Extensions;
 
 public abstract class TestBase
 {

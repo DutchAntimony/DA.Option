@@ -1,4 +1,4 @@
-﻿namespace DA.Option;
+﻿namespace DA.Options;
 
 /// <summary>
 /// Static methods to make working with the Option{T} easier.

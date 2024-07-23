@@ -1,4 +1,4 @@
-namespace DA.Option.Tests;
+namespace DA.Options.Tests;
 
 public class OptionTests
 {

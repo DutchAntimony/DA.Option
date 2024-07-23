@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace DA.Option;
+namespace DA.Options;
 
 /// <summary>
 /// An Option is a monat around a <typeparamref name="TValue"/>.

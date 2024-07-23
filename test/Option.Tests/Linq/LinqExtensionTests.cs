@@ -1,6 +1,6 @@
-﻿using DA.Option.Linq;
+﻿using DA.Options.Linq;
 
-namespace DA.Option.Tests.Linq;
+namespace DA.Options.Tests.Linq;
 
 public  class LinqExtensionTests
 {

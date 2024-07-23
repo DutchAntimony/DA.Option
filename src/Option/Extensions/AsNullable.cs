@@ -1,4 +1,4 @@
-﻿namespace DA.Option.Extensions;
+﻿namespace DA.Options.Extensions;
 
 public static partial class OptionExtensions
 {
