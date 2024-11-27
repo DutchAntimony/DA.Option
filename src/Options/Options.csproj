@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>DA.Options</RootNamespace>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageOutputPath>C:\Users\romke\source\nupkgs</PackageOutputPath>
+
+		<PackageId>DA.Options</PackageId>
+		<Version>1.0.1</Version>
+		<Authors>Dutch Antimony</Authors>
+		<Description>DA.Options is a Option monad implementation for C#</Description>
+		<Copyright>(c) 2024 - DutchAntimony - MIT License</Copyright>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<RepositoryUrl>https://github.com/DutchAntimony/DA.Options</RepositoryUrl>
+		<PackageTags>Option;Maybe;Monad;c#</PackageTags>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\..\README.md">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
+
+</Project>
